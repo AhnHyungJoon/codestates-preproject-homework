@@ -1,2 +1,7 @@
-# codestates-preproject-homework
-프로젝트 진행 전 간단한 실습
+# My Todo App
+
+프로젝트 시작 전 간단한 실습 과제
+
+## Contributors
+
+- BE: 
